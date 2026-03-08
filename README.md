@@ -1,4 +1,4 @@
-![IlMelons GitHub stats](https://github-readme-stats.vercel.app/api?username=IlMelons&show_icons=true&rank_icon=github&show=prs_merged,prs_merged_percentage&theme=tokyonight)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IlMelons&theme=tokyonight" />
 
 ## Biography
 Hi I’m Melons, 1 year experience in Fivem, the concept of my scripts is "Simple but Effective", if you like them put a star and follow me to stay updated, to support my projects donate using the button below
