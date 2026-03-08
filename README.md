@@ -1,4 +1,9 @@
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IlMelons&theme=tokyonight" />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IlMelons&theme=tokyonight" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IlMelons&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IlMelons&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IlMelons&theme=tokyonight" width="32%" />
+</div>
 
 ## Biography
 Hi I’m Melons, 1 year experience in Fivem, the concept of my scripts is "Simple but Effective", if you like them put a star and follow me to stay updated, to support my projects donate using the button below
