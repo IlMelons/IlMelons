@@ -2,9 +2,13 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IlMelons&theme=tokyonight" width="100%" />
 
-| | | |
-|:---:|:---:|:---:|
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IlMelons&theme=tokyonight" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IlMelons&theme=tokyonight" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IlMelons&theme=tokyonight" /> |
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IlMelons&theme=tokyonight" /></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IlMelons&theme=tokyonight" /></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IlMelons&theme=tokyonight" /></td>
+</tr>
+</table>
 
 </div>
 
