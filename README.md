@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IlMelons&theme=tokyonight" width="100%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IlMelons&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IlMelons&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IlMelons&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IlMelons&theme=tokyonight" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IlMelons&theme=tokyonight" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IlMelons&theme=tokyonight" width="33%" />
 </div>
 
 ## Biography
